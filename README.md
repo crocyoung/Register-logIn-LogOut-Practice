@@ -1,4 +1,4 @@
-# Registeration-logIn-LogOut-Practice
+# Register-logIn-LogOut-Practice
 <br>This is a practice for user register, user logIn and user logOut.
 <br> main procedure:
 <br> connected the MySQL databse
